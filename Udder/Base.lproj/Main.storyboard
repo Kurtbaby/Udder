@@ -31,8 +31,8 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="UdderCow" translatesAutoresizingMaskIntoConstraints="NO" id="hAr-FF-nhM">
-                                <rect key="frame" x="67" y="155" width="240" height="128"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="SplashyMilk" translatesAutoresizingMaskIntoConstraints="NO" id="O1B-e5-02f">
+                                <rect key="frame" x="0.0" y="325" width="375" height="342"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -42,9 +42,10 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="136.80000000000001" y="133.5832083958021"/>
         </scene>
     </scenes>
     <resources>
-        <image name="UdderCow" width="236" height="267"/>
+        <image name="SplashyMilk" width="275" height="183"/>
     </resources>
 </document>
